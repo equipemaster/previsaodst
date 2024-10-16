@@ -1,0 +1,6 @@
+ECHO est  ativado.
+tensorflow
+pandas
+matplotlib
+scikit-learn
+
